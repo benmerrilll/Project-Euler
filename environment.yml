@@ -1,0 +1,8 @@
+name: PE
+channels:
+- conda-forge
+- anaconda
+- defaults
+dependencies:
+- python=3.9
+prefix: ~/Works/Personal/Project-Euler/
