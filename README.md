@@ -9,3 +9,5 @@ We have, for each problem, a folder named after the problem name (as per Project
 
 ### Planning for the future
 For now, this repository will only include Project Euler's problems.
+
+## List of solved problems
