@@ -12,5 +12,6 @@ Ben and I will present our solutions to this website problems in the respective 
 For now, this repository will only include Project Euler's problems.
 
 ## Collaborators
-Riccardo (me) 
-Ben
+[Riccardo (me)](https://github.com/RiccardoMPesce/Project-Euler/tree/main/Riccardo)
+
+[Ben](https://github.com/RiccardoMPesce/Project-Euler/tree/main/Ben)
